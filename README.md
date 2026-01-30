@@ -1,34 +1,42 @@
-<h1 align="center" display="inline">👨‍💻 🚀 Fabricio Oliveira - Dev Front-end</h1>
-
-* 🎮 Gosto muito de tecnologia, design e fotografia.
-* 📚 Atualmente estou me especializando em React.
-* 🌃 Também gosto de cenários futurísticos e filmes de ficção.
-
-#
-
-<div align="center" display="inline">
-  <a href="https://github.com/fabricio-odn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&count_private=true&include_all_commits=yes&show_icons=true&theme=codeSTACKr&locale=pt-br" width="430px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-odn&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br&hide_border=true" width="410px"/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&background=00000000&center=true&vCenter=true&width=435&lines=Fabricio+Oliveira;Dev+Front-end+%26+Mobile;Fundador+Oliveira+Solutions;Engenharia+de+Software" alt="Typing SVG" />
+</h1>
 
 <br />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,styledcomponents,tailwind,figma,firebase" />
+### 👨‍💻 Sobre Mim
+
+Sou estudante de **Engenharia de Software** e atuo como Consultor de TI. Minha paixão é criar soluções digitais que unem performance técnica com design futurista. Atualmente, estou focado em construir ecossistemas web escaláveis e em minha consultoria, a **[Oliveira Solutions](https://oliveirasolutions.com.br)**.
+
+- 🔭 **Trabalhando atualmente:** No desenvolvimento da plataforma Oliveira Solutions e projetos freelance.
+- 🌱 **Estudando:** Next.js 14, Server Actions, Zod e Arquitetura de Software.
+- 💬 **Pergunte-me sobre:** React, Infraestrutura de TI e Linux (Fedora).
+- ⚡ **Curiosidade:** Sou apaixonado pela estética Cyberpunk e fotografia noturna.
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,styledcomponents" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,vscode,vercel" />
+</div>
+
+---
+
+<br />
+
+<div align="center">
+  <a href="https://portfolio-fabricio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Web-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-</p>
-
-#
-
-<p align="center">
-  <a href="mailto:fabriciodeoliveira334@gmail.com" alt="Link para Gmail" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/fabricio-on/" alt="Link para Linkedin" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://portfolio-fabricio.vercel.app/" alt="Link para meu site(portfólio)" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Meu%20Website-EDD11D?style=for-the-badge" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/fabricio-on/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fabriciodeoliveira334@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
