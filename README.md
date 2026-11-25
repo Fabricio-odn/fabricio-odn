@@ -51,19 +51,6 @@
 
 ---
 
-### 📡 uplink_stats.dat
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Fabricio-odn&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00C8&text_color=E0E0FF&ring_color=06B6D4" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fabricio-odn&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=E0E0FF&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fabricio-odn&hide_border=true&background=0D0221&ring=06B6D4&fire=FF00C8&currStreakLabel=00F5FF&sideLabels=E0E0FF&currStreakNum=E0E0FF&sideNums=E0E0FF&dates=8888AA" />
-</div>
-
----
-
 ### 🔗 connect://
 
 <div align="center">
